@@ -1,4 +1,4 @@
 class Images{
-  static String motocheck = "assets/pictures/motocheck.jpg";
-  static String user = "assets/pictures/user.jpg";
+  static String motocheck = "assets/pictures/motocheck.png";
+  static String user = "assets/pictures/user.png";
 }

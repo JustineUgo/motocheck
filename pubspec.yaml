@@ -11,7 +11,8 @@ dependencies:
     sdk: flutter
   flutter_native_splash: ^2.2.7
   get: 4.6.5
-  remix: ^0.0.1-dev.1
+  remixicon: ^1.0.0
+  side_sheet: ^1.0.2
   websafe_svg: ^2.1.2+2
 
 dev_dependencies:
