@@ -6,33 +6,33 @@ ThemeData themeData() {
     return base.copyWith(
       /*App bar titles*/
       headline1: base.headline1!.copyWith(
-          fontFamily: 'AlbertSans',
-          fontSize: 38.0,
+          fontFamily: 'Lexend',
+          fontSize: 24.0,
           color: kBlack,
-          fontWeight: FontWeight.w800),
+          fontWeight: FontWeight.w600),
       headline2: base.headline2!.copyWith(
-          fontFamily: 'AlbertSans',
-          fontSize: 18.0,
+          fontFamily: 'Lexend',
+          fontSize: 20.0,
           color: kBlack,
           fontWeight: FontWeight.w600),
       headline3: base.headline3!.copyWith(
-          fontFamily: 'AlbertSans',
+          fontFamily: 'Lexend',
           fontSize: 16.0,
           color: kBlack,
           fontWeight: FontWeight.w400),
       headline4: base.headline4!.copyWith(
-          fontFamily: 'AlbertSans',
-          fontSize: 14.0,
+          fontFamily: 'Lexend',
+          fontSize: 15.0,
           color: kBlack,
-          fontWeight: FontWeight.w500),
+          fontWeight: FontWeight.w400),
       headline5: base.headline5!.copyWith(
-          fontFamily: 'AlbertSans',
+          fontFamily: 'Lexend',
           fontSize: 14.0,
           color: kBlack,
           fontWeight: FontWeight.w400),
       headline6: base.headline6!.copyWith(
-          fontFamily: 'AlbertSans',
-          fontSize: 12.0,
+          fontFamily: 'Lexend',
+          fontSize: 13.0,
           color: kBlack,
           fontWeight: FontWeight.w400),
     );
