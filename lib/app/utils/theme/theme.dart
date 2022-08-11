@@ -7,14 +7,14 @@ ThemeData themeData() {
       /*App bar titles*/
       headline1: base.headline1!.copyWith(
           fontFamily: 'Lexend',
-          fontSize: 28.0,
+          fontSize: 30.0,
           color: kBlack,
           fontWeight: FontWeight.w600),
       headline2: base.headline2!.copyWith(
           fontFamily: 'Lexend',
           fontSize: 24.0,
           color: kBlack,
-          fontWeight: FontWeight.w600),
+          fontWeight: FontWeight.w500),
       headline3: base.headline3!.copyWith(
           fontFamily: 'Lexend',
           fontSize: 20.0,
