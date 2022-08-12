@@ -4,14 +4,17 @@
 <br>
 [Link to download app]()
 
+
 <p align="center">
-    <img src="" width="240" height="480">
+    <img src="https://user-images.githubusercontent.com/50449937/184442976-d8dba382-1470-4b26-bede-c90b1c59e146.jpg" width="240" height="480">
+    <img src="https://user-images.githubusercontent.com/50449937/184443085-1de29429-090d-4239-9013-16535a500a34.jpg" width="240" height="480">
+    <img src="https://user-images.githubusercontent.com/50449937/184443447-aead014e-7f12-4709-b633-64ab3b6c1043.jpg" width="240" height="480">
 </p>
 
-## About Cashir
+## About MotoCheck
 A nationwide network of auto centres and automobile engineers powered by proprietary software
 
-- Services
+### Services
 
 * Vehicle Inspection
 * Auto Repair & Maintenance
@@ -61,9 +64,6 @@ flutter run
 
 * Framewort: [Flutter](https://flutter.dev/) > 2.5 with Null Safety
 * Architectural pattern: MVC(Model-View-Controller)
-* Storage(local): [GetStorage](https://pub.dev/packages/get_storage)
-* State management: [GetX](https://github.com/mobxjs/mobx.dart)
-* API: https://opentdb.com/api.php?amount=10&category=28&type=multiple
 
 ## Folder Structure
 Here is the core folder structure which flutter provides.
