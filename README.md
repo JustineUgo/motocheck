@@ -2,7 +2,6 @@
 
 [motocheck.ng](http://www.motocheck.ng/). 
 <br>
-[Link to download app]()
 
 
 <p align="center">
