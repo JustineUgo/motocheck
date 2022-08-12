@@ -7,32 +7,32 @@ ThemeData themeData() {
       /*App bar titles*/
       headline1: base.headline1!.copyWith(
           fontFamily: 'Lexend',
-          fontSize: 24.0,
+          fontSize: 30.0,
           color: kBlack,
           fontWeight: FontWeight.w600),
       headline2: base.headline2!.copyWith(
           fontFamily: 'Lexend',
-          fontSize: 20.0,
+          fontSize: 24.0,
           color: kBlack,
-          fontWeight: FontWeight.w600),
+          fontWeight: FontWeight.w500),
       headline3: base.headline3!.copyWith(
           fontFamily: 'Lexend',
-          fontSize: 16.0,
+          fontSize: 20.0,
           color: kBlack,
           fontWeight: FontWeight.w400),
       headline4: base.headline4!.copyWith(
           fontFamily: 'Lexend',
-          fontSize: 15.0,
+          fontSize: 18.0,
           color: kBlack,
-          fontWeight: FontWeight.w400),
+          fontWeight: FontWeight.w500),
       headline5: base.headline5!.copyWith(
           fontFamily: 'Lexend',
-          fontSize: 14.0,
+          fontSize: 16.0,
           color: kBlack,
           fontWeight: FontWeight.w400),
       headline6: base.headline6!.copyWith(
           fontFamily: 'Lexend',
-          fontSize: 13.0,
+          fontSize: 14.0,
           color: kBlack,
           fontWeight: FontWeight.w400),
     );
@@ -47,6 +47,6 @@ ThemeData themeData() {
     //TEXT THEME
     textTheme: _textTheme(base.textTheme),
 
-    iconTheme: IconThemeData(size: 16.0, color: kBlue),
+    iconTheme: IconThemeData(size: 30.0, color: kBlue),
   );
 }

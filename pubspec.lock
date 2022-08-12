@@ -121,13 +121,6 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  freezed_annotation:
-    dependency: transitive
-    description:
-      name: freezed_annotation
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "0.14.3"
   get:
     dependency: "direct main"
     description:
@@ -163,13 +156,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.6.4"
-  json_annotation:
-    dependency: transitive
-    description:
-      name: json_annotation
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "4.6.0"
   lint:
     dependency: transitive
     description:
@@ -240,13 +226,20 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "5.0.0"
-  remix:
+  remixicon:
     dependency: "direct main"
     description:
-      name: remix
+      name: remixicon
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.0.1-dev.1"
+    version: "1.0.0"
+  side_sheet:
+    dependency: "direct main"
+    description:
+      name: side_sheet
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.0.2"
   sky_engine:
     dependency: transitive
     description: flutter
