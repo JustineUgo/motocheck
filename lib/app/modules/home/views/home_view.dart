@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:motocheck/app/custom/checklist/checklist.dart';
-import 'package:motocheck/app/service_tile/service_tile.dart';
+import 'package:motocheck/app/custom/service_tile/service_tile.dart';
 import 'package:motocheck/app/utils/color/color.dart';
 import 'package:remixicon/remixicon.dart';
 import 'package:side_sheet/side_sheet.dart';
