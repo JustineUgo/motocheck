@@ -28,7 +28,7 @@ class SideNav extends StatelessWidget {
                 width: 15,
               ),
               Container(
-                height: 50,
+                height: 60,
                 width: (Get.width - 70) / 2,
                 decoration: BoxDecoration(
                     image:
@@ -38,7 +38,7 @@ class SideNav extends StatelessWidget {
             ],
           ),
           const SizedBox(
-            height: 50,
+            height: 30,
           ),
           Expanded(
             child: Container(
@@ -61,7 +61,7 @@ class SideNav extends StatelessWidget {
                     ],
                   ),
                   const SizedBox(
-                    height: 32,
+                    height: 25,
                   ),
                   const Divider(
                     thickness: 2,
@@ -69,7 +69,7 @@ class SideNav extends StatelessWidget {
                     color: Color(0xffE6EBEC),
                   ),
                   const SizedBox(
-                    height: 32,
+                    height: 25,
                   ),
                   const NavItem(
                     icon: Remix.terminal_box_line,
@@ -122,17 +122,17 @@ class SideNav extends StatelessWidget {
                             'Auto Centre',
                             style: Theme.of(context)
                                 .textTheme
-                                .headline4!
+                                .headline5!
                                 .copyWith(
                                     color: kMCGrey,
-                                    fontWeight: FontWeight.w400),
+                                    fontWeight: FontWeight.w300),
                           ),
                         ],
                       )
                     ],
                   ),
                   const SizedBox(
-                    height: 50,
+                    height: 40,
                   ),
                 ],
               ),

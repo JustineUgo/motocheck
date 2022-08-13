@@ -24,7 +24,7 @@ class NavItem extends StatelessWidget {
           children: [
             svg != null
                 ? Padding(
-                    padding: EdgeInsets.only(left: 3),
+                    padding: const EdgeInsets.only(left: 3),
                     child: WebsafeSvg.asset(svg!, width: 22))
                 : Icon(
                     icon,
@@ -43,7 +43,7 @@ class NavItem extends StatelessWidget {
           ],
         ),
         const SizedBox(
-          height: 60,
+          height: 40,
         ),
       ],
     );
